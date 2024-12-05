@@ -1,2 +1,2 @@
 # brenta1.github.io
-Experiment for a website containing my art portfolio 
+Lab attempt for Web Communications using art portfolio as an example 
